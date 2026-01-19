@@ -1,0 +1,4 @@
+- https://huggingface.co/defog/llama-3-sqlcoder-8b
+- https://huggingface.co/TheBloke/sqlcoder-GGUF
+- https://modelscope.cn/models/XGenerationLab/XiYanSQL-QwenCoder-3B-2502
+- https://modelscope.cn/models/iic/nlp_convai_text2sql_pretrain_cn
